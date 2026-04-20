@@ -11,20 +11,20 @@ Excited to present my end-to-end **Data Analytics Project** where I analyzed mob
  - Customers: 1,400+
 
 # 📈 **What this dashboard delivers:**
-• 🌍 Region-wise sales analysis using map visualization
-• 📊 Monthly sales, revenue & profit trends
-• 📱 Brand performance comparison (Apple, Samsung, OnePlus, Xiaomi, Oppo, Vivo, Realme)
-• 💰 Profit vs Sales relationship insights
-• 🧩 Category segmentation (Budget, Mid-range, Premium)
-• 💳 Payment mode analysis (UPI, Credit Card, Debit Card, Net Banking, Cash)
-• 🔮 **Sales Forecast for the next 12 months** using time-series analysis
-• 📉 Trend projection to support data-driven decision making
+- 🌍 Region-wise sales analysis using map visualization
+- 📊 Monthly sales, revenue & profit trends
+- 📱 Brand performance comparison (Apple, Samsung, OnePlus, Xiaomi, Oppo, Vivo, Realme)
+- 💰 Profit vs Sales relationship insights
+- 🧩 Category segmentation (Budget, Mid-range, Premium)
+- 💳 Payment mode analysis (UPI, Credit Card, Debit Card, Net Banking, Cash)
+- 🔮 **Sales Forecast for the next 12 months** using time-series analysis
+- 📉 Trend projection to support data-driven decision making
 
 # 🛠️ **Skills & Tools Applied:**
-• Data Cleaning & Transformation
-• Data Visualization & Dashboard Design
-• Business Intelligence Concepts
-• Forecasting & Predictive Analytics 
+- Data Cleaning & Transformation
+- Data Visualization & Dashboard Design
+- Business Intelligence Concepts
+- Forecasting & Predictive Analytics 
 
 # output
 <img width="1221" height="547" alt="Image" src="https://github.com/user-attachments/assets/9c076897-cadd-4806-938a-f3d6520a13ae" />
