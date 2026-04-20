@@ -31,6 +31,8 @@ Excited to present my end-to-end **Data Analytics Project** where I analyzed mob
 
 <img width="1226" height="547" alt="Image" src="https://github.com/user-attachments/assets/54b84a4f-0d16-469e-bf72-2c11ac57c5c7" />
 
+<img width="1220" height="539" alt="Image" src="https://github.com/user-attachments/assets/9c253fd7-8f32-4f3f-8209-2aa6071ba1b9" />
+
 
 
 
