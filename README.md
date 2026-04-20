@@ -27,6 +27,9 @@ Excited to present my end-to-end **Data Analytics Project** where I analyzed mob
 • Forecasting & Predictive Analytics 
 
 # output
+<img width="1221" height="547" alt="Image" src="https://github.com/user-attachments/assets/9c076897-cadd-4806-938a-f3d6520a13ae" />
+
+
 
 
 
