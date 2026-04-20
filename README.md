@@ -5,10 +5,10 @@
 Excited to present my end-to-end **Data Analytics Project** where I analyzed mobile sales data and built a dashboard with **interactive insights + future forecasting**.
 
 # 🔍 **Project Highlights:**
-• Total Revenue: $420.82M
-• Total Profit: $84.16M
-• Units Sold: 12K+
-• Customers: 1,400+
+ • Total Revenue: $420.82M
+ • Total Profit: $84.16M
+ • Units Sold: 12K+
+ • Customers: 1,400+
 
 # 📈 **What this dashboard delivers:**
 • 🌍 Region-wise sales analysis using map visualization
