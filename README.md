@@ -29,6 +29,8 @@ Excited to present my end-to-end **Data Analytics Project** where I analyzed mob
 # output
 <img width="1221" height="547" alt="Image" src="https://github.com/user-attachments/assets/9c076897-cadd-4806-938a-f3d6520a13ae" />
 
+<img width="1226" height="547" alt="Image" src="https://github.com/user-attachments/assets/54b84a4f-0d16-469e-bf72-2c11ac57c5c7" />
+
 
 
 
